@@ -23,3 +23,6 @@ const poly: IUser = {
   age: 30,
   email: 'john@example.com',
 };
+
+console.log(mango);
+console.log(poly);
